@@ -68,20 +68,21 @@ PG Hunt is a PG-hunting website designed to help students and professionals find
 1. **Clone the Repository**
 
 ```
-  git clone https://github.com/your-username/pg-life.git
-  cd pg-life
+git clone https://github.com/geeta614/pg-hunt-php.git
+cd pg-hunt-php
 ```
 
 2. **Import the Database**
 
 - Open phpMyAdmin
 - Create a new database: pglife
-- Import the SQL dump file
+- Import the provided SQL dump file (available in the repo)
 
 3. **Run the Project**
 
 ```
-  php -S localhost:8000
-  Open http://localhost:8000 in your browser
+php -S localhost:8000
 ```
-"# pg-hunt-php" 
+
+Open your browser and visit:
+http://localhost:8000
